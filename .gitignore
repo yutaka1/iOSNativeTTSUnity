@@ -1,0 +1,7 @@
+build
+.vs/
+.vsconfig
+Logs/
+Temp/
+Library/
+build_BurstDebugInformation_DoNotShip/
